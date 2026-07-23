@@ -76,11 +76,6 @@ function Login({ onLogin }) {
             Sign in
           </button>
         </form>
-
-        <p className="auth-note">
-          This is a UI-only demo — any correctly formatted email and a
-          password of 6+ characters will sign you in.
-        </p>
       </div>
     </div>
   )
